@@ -1,0 +1,12 @@
+{
+  "name": "sudo-node-module-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "touch ~/pwned"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
